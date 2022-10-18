@@ -2,7 +2,7 @@
 
 - Basic Understanding: from Chapter 5 in this book [Robotics, Vision and Control_ Fundamental Algorithms In MATLAB](https://drive.google.com/file/d/1iLVVKp7PbJKElofjGX9DpDjaPhk-N8ai/view?usp=sharing)
 - Youtube Channels
-    - [SlAM Course](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) by Cyrill Stachniss
+    - [SLAM Course](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) by Cyrill Stachniss
 - Online course
     - Udacity - [School of autonomous systems](https://www.udacity.com/school-of-autonomous-systems)
     - Coursera - [Self driving cars](https://www.coursera.org/specializations/self-driving-cars)
